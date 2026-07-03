@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 pip install -r requirements.txt
-python -m nltk.downloader punkt stopwords
+python -m nltk.downloader punkt_tab stopwords
